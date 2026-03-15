@@ -1,3 +1,11 @@
+train/
+test/
+tf/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+*.h5
+*.pt
+*.pth
 venv
-templates
 venv1
